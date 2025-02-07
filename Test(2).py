@@ -1,7 +1,7 @@
 file_path = "/Users/anirudhravipudi/Desktop/Python_Scratch/TestLines.txt"
 
 # Define the line number to be removed (e.g., 30th line)
-remove_line_number = 30  
+remove_line_number = 300 
 
 # Read the existing file content into a list
 with open(file_path, "r") as file:
@@ -18,4 +18,4 @@ else:
 with open(file_path, "w") as file:
     file.writelines(lines)
 
-print("✅ The file has been updated successfully!")
+print("✅ The file has been updated accordingly!")
