@@ -1,15 +1,1 @@
-Car: BMW M8 Competition
-Price: $140,000
-Color: Green
-Car: Audi RS7
-Price: $130,000
-Color: Blue
-Car: Mercedes AMG GT
-Price: $150,000
-Color: Silver
-Car: Mercedes AMG GT
-Price: $150,000
-Color: Silver
-Car: Mercedes AMG GT
-Price: $150,000
-Color: Silver
+Flaws : Car has a rebuilt title
