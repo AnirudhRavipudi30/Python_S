@@ -29,4 +29,4 @@ Car_Details(Make = "Mercedes", Year = 2023, Model = "AMG GT 4-Door");
 
 #Lambda Function
 Car_Depreciation = lambda Price, Year: Price * 0.10 * (2025 - Year);
-print("Depreciation of the car: ", Car_Depreciation(100000, 2020));
+print("Depreciation of the car: ", Car_Depreciation(63000, 2019));
